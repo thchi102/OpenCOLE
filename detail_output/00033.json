@@ -1,0 +1,30 @@
+{
+    "description": "\n\nThe image features a vibrant and dynamic layout highlighting various products that are part of the Black Friday sale event at Yourstore. The background is a bold black color with eye-catching splashes of red and yellow, which are commonly associated with Black Friday sales. In the foreground, prominently displayed are graphics of popular items such as electronics, clothing, and home goods, each with a visible discount tag indicating '50% OFF'. The store logo of Yourstore is visible at the top, reinforcing brand recognition.",
+    "keywords": [
+        "discount",
+        "sale",
+        "Black Friday",
+        "Yourstore",
+        "advertisement",
+        "shopping",
+        "up to 50% off",
+        "store logo",
+        "limited time offer",
+        "special promotion",
+        "online shopping"
+    ],
+    "captions": {
+        "background": "The background consists of a black canvas with vibrant red and yellow highlights, creating a sense of urgency and excitement typical of Black Friday sales.",
+        "objects": "The foreground includes various product images such as electronics, clothing, and accessories, each with a bold '50% OFF' tag. The logo of Yourstore is placed at the top, along with the call to action inviting customers to visit www.reallygreatsite.com."
+    },
+    "headings": {
+        "heading": [
+            "Black Friday Sale",
+            "Up to 50% OFF",
+            "at Yourstore!"
+        ],
+        "sub_heading": [
+            "Shop Now at www.reallygreatsite.com"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "description": "\n\nThe image features a sleek and professional design representing an annual real estate event called 'The Property Show'. The background of the cover is a gradient of deep blue and white, giving it a polished look suitable for the real estate industry. \n\nIn the foreground, there are stylized icons of houses and buildings, which are strategically placed to convey the idea of property showcasing. The icons vary in size to create depth and interest. Each icon subtly incorporates elements representing key features of the properties, such as roofs, windows, and doors, in a way that attracts the viewer\u2019s eye.\n\nThe title 'The Property Show' is prominently displayed at the top in bold, modern typography, ensuring it stands out. Below the title, the dates 'March 28-29' and the location 'Conegalin Expo Hall' are listed in a slightly smaller font but still bold enough to catch attention. \n\nFurther down, there is a call-to-action that reads 'Over 100 Properties Available for Viewing!' placed in an eye-catching banner style, encouraging event attendance.\n\nThe bottom section of the cover includes ticket purchase details, directing to 'conegalind.dk', along with the contact number '844-1746-9025' in smaller font size but clearly visible, ensuring attendees can easily find the information they need.",
+    "keywords": [
+        "real estate",
+        "event",
+        "properties",
+        "The Property Show",
+        "Conegalin Expo Hall",
+        "March 28-29"
+    ],
+    "captions": {
+        "background": "The background is a gradient of deep blue and white, providing a professional and inviting atmosphere suitable for real estate.",
+        "objects": "The main objects include icons of houses and buildings scattered throughout the design to represent properties available at the event."
+    },
+    "headings": {
+        "heading": [
+            "The Property Show"
+        ],
+        "sub_heading": [
+            "March 28-29",
+            "Conegalin Expo Hall",
+            "Over 100 Properties Available for Viewing!"
+        ]
+    }
+}

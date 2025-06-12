@@ -1,0 +1,18 @@
+{
+    "description": "dummy",
+    "keywords": [
+        "dummy"
+    ],
+    "captions": {
+        "background": "dummy",
+        "objects": "dummy"
+    },
+    "headings": {
+        "heading": [
+            "dummy"
+        ],
+        "sub_heading": [
+            "dummy"
+        ]
+    }
+}

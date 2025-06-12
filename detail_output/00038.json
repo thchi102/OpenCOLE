@@ -1,0 +1,28 @@
+{
+    "description": "\n\nThe image features a visually dynamic advertisement for a moving and storage company. The backdrop showcases a modern and sleek design with an array of storage units and a moving truck, indicating the variety of services provided. There are professional organizers depicted in the scene, effectively packing and organizing items into the storage units and portable containers. The overall color scheme uses blue and green tones to signify trust and reliability.",
+    "keywords": [
+        "moving",
+        "storage",
+        "concierge services",
+        "self storage units",
+        "professional organizers",
+        "full service storage",
+        "portable storage containers",
+        "reliable",
+        "fast",
+        "safe"
+    ],
+    "captions": {
+        "background": "The background consists of a gradient from light blue to green, representing professionalism and reliability. A moving truck is prominently displayed on one side, and on the other side are storage units and portable containers, conveying the diverse options available.",
+        "objects": "The key objects include: 1. A moving truck labeled with the company logo. 2. A stack of portable storage containers. 3. Professional organizers actively packing items. 4. Different styles of storage units that showcase both large and small options available for customers."
+    },
+    "headings": {
+        "heading": [
+            "Moving Made Easy",
+            "Your Complete Storage Solution"
+        ],
+        "sub_heading": [
+            "Professional Organizers | Self Storage | Concierge Services | Portable Containers"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "description": "\n\nThe image features a dynamic and eye-catching design for a Black Friday and Cyber Monday advertisement. Bold, large text dominates the center, emphasizing the spectacular 70% discount, making it the focal point to grab attention. The background is a mix of dark colors, like black and deep red, representing the urgency and excitement of these shopping events. Elements like shopping bags, discount tags, and stars are scattered throughout the design, enhancing the festive shopping atmosphere.",
+    "keywords": [
+        "Black Friday",
+        "Cyber Monday",
+        "discount",
+        "sale",
+        "shopping",
+        "advertisement",
+        "markdown",
+        "store",
+        "promo",
+        "special offer",
+        "bargain",
+        "retail",
+        "holiday sales",
+        "clearance",
+        "consumer"
+    ],
+    "captions": {
+        "background": "Dark-colored gradient with vibrant accents, like red and gold, to highlight the festive nature of Black Friday and Cyber Monday.",
+        "objects": "Key visual elements include shopping bags, a large percentage symbol, and vibrant tags indicating '70% OFF'."
+    },
+    "headings": {
+        "heading": [
+            "70% OFF!",
+            "BLACK FRIDAY & CYBER MONDAY"
+        ],
+        "sub_heading": [
+            "Don't miss out on the best deals!",
+            "Visit SHOP NAME now!"
+        ]
+    }
+}

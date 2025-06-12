@@ -1,0 +1,28 @@
+{
+    "description": "\n\nThe advertisement features a striking black background with bold white and red text that immediately draws attention. Prominently displayed at the center is the message: 'Black Friday & Cyber Monday Sale!' in large, impactful font. Below this, in an eye-catching red banner, is the offer '50% Off Everything!' The store's address '123 Anywhere St., Any City' is displayed in a smaller font at the bottom, along with the website 'www.yourwebsite.com' for easy access.",
+    "keywords": [
+        "Black Friday",
+        "Cyber Monday",
+        "sale",
+        "discount",
+        "advertisement",
+        "promotion",
+        "50% off",
+        "store",
+        "online shopping",
+        "holiday sales"
+    ],
+    "captions": {
+        "background": "The background is completely black, providing a dramatic contrast to the bold text and images in the foreground, emphasizing the urgency and excitement of the sale.",
+        "objects": "The main objects in the design are the text elements, featuring large, bold lettering for the sale announcement and discount. The use of red for the discount banner adds a sense of urgency and grabs attention. There may also be decorative elements like shopping bags or gift icons subtly placed to enhance the shopping theme."
+    },
+    "headings": {
+        "heading": [
+            "Black Friday & Cyber Monday Sale!",
+            "50% Off Everything!"
+        ],
+        "sub_heading": [
+            "Don't miss out on incredible deals!"
+        ]
+    }
+}

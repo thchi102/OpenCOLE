@@ -1,0 +1,29 @@
+{
+    "description": "\n\nThe image features a rustic wooden table filled with an assortment of vibrant fruits and vegetables. The scene showcases fresh produce such as red tomatoes, leafy greens, yellow bell peppers, and juicy strawberries. The colors of the fruits and vegetables are bright and eye-catching, presenting the items in an appealing way. In the center of the image, there is an inviting text overlay that encourages viewers to 'Shop Now', which is designed to stand out against the colorful produce backdrop.",
+    "keywords": [
+        "fresh",
+        "produce",
+        "local",
+        "farm",
+        "fruits",
+        "vegetables",
+        "rustic",
+        "healthy",
+        "shop",
+        "organic",
+        "colorful",
+        "inviting"
+    ],
+    "captions": {
+        "background": "The background is a natural outdoor setting with a blurred garden scene, providing a warm and inviting atmosphere that hints at freshness and local farming.",
+        "objects": "The main objects in the image are a variety of fruits and vegetables artfully arranged on the wooden table, including tomatoes, bell peppers, cucumbers, and strawberries."
+    },
+    "headings": {
+        "heading": [
+            "Fresh Fruits & Vegetables"
+        ],
+        "sub_heading": [
+            "From Our Farm to Your Table"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "description": "\n\nThe image features a sun with rays extending outward, creating a warm and inviting atmosphere. The sun is in a medium orange color, and the background is a gradient from light blue at the top to light yellow at the bottom, symbolizing a clear sky and sunny day. The bottom part of the poster includes the promotional text that reads, '30% OFF any tanning package for first-time clients!' in bold letters, with the salon's name and website displayed prominently below it. The overall feel of the design is cheerful and attractive to potential customers looking for tanning services.",
+    "keywords": [
+        "salon",
+        "first time",
+        "30% off",
+        "promotional",
+        "tanning",
+        "tan",
+        "tanning bed",
+        "beauty",
+        "spa",
+        "relax",
+        "offer",
+        "package",
+        "suntan",
+        "sun",
+        "tanning salon"
+    ],
+    "captions": {
+        "background": "The background is a gradient from light blue to light yellow, evoking a sunny sky.",
+        "objects": "The objects include a bright orange sun with rays and text promoting the tanning salon's offer."
+    },
+    "headings": {
+        "heading": [
+            "Get Your Tan On!"
+        ],
+        "sub_heading": [
+            "30% OFF for First-Time Clients!"
+        ]
+    }
+}

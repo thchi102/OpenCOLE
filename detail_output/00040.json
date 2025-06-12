@@ -1,0 +1,28 @@
+{
+    "description": "This graphic design consists of a vibrant and colorful promotional advertisement for a toy store's Black Friday and Cyber Monday sale. The ad prominently features a playful and festive atmosphere, designed to attract the attention of parents and children alike.",
+    "keywords": [
+        "Black Friday",
+        "Cyber Monday",
+        "sale",
+        "discount",
+        "toys",
+        "45% off",
+        "promotion",
+        "advertisement",
+        "toy store",
+        "holiday shopping"
+    ],
+    "captions": {
+        "background": "The background is a bright and cheerful pattern that includes colorful toys and holiday-themed graphics, such as snowflakes and gift boxes, creating a festive mood suitable for the holiday shopping season.",
+        "objects": "The advertisement includes images of popular toys available in the store, such as action figures, dolls, and board games, arranged playfully around the text. Each toy is labeled to indicate it's part of the sale, enhancing the promotional impact."
+    },
+    "headings": {
+        "heading": [
+            "BLACK FRIDAY & CYBER MONDAY SALE!",
+            "45% OFF SELECTED TOYS"
+        ],
+        "sub_heading": [
+            "Don\u2019t miss out on amazing discounts!"
+        ]
+    }
+}

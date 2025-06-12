@@ -1,0 +1,38 @@
+{
+    "description": "\n\nThe image features a picturesque dairy farm setting with a barn, green pastures, and cows grazing in the background. In the foreground, there is a glass of fresh organic milk on a wooden table, surrounded by fresh daisies and green grass. The glass is filled to the brim, reflecting the sun's rays, which creates a sense of freshness. The ad is designed to evoke feelings of wholesome, farm-fresh goodness, emphasizing the quality of the dairy products.",
+    "keywords": [
+        "organic",
+        "dairy",
+        "farm",
+        "fresh",
+        "milk",
+        "natural",
+        "healthy",
+        "quality",
+        "farm-fresh",
+        "cows",
+        "nature",
+        "local",
+        "farmers",
+        "sustainable",
+        "production",
+        "wholesome",
+        "pure",
+        "delicious",
+        "nutrition",
+        "care"
+    ],
+    "captions": {
+        "background": "The background features a beautiful landscape of a dairy farm with green fields, a red barn, and cows grazing. The sky is clear and blue, adding to the fresh and inviting atmosphere.",
+        "objects": " 'milk glass': 'The glass of milk is in focus on the wooden table with flowers around it.', 'daisy': 'The daisies are white and scattered around the glass, adding a touch of nature.', 'barn': 'The red barn is situated in the background, completing the farm-like scenery.' "
+    },
+    "headings": {
+        "heading": [
+            "Fresh Organic Milk",
+            "From Our Farm to Your Table"
+        ],
+        "sub_heading": [
+            "Quality You Can Taste"
+        ]
+    }
+}

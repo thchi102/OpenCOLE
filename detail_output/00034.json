@@ -1,0 +1,23 @@
+{
+    "description": "\n\nThe image features an assortment of luxury accessories showcased against an elegant black background. The accessories include designer handbags, watches, sunglasses, and jewelry, all displayed beautifully to highlight their luxury appeal. The items are artistically arranged to create an eye-catching composition that draws attention to their quality and sophistication. A bold, eye-catching banner overlays the image, announcing the 50% off discount for Black Friday and Cyber Monday. The text is in gold and white, complementing the luxury theme.",
+    "keywords": [
+        "Black Friday",
+        "Cyber Monday",
+        "Sale",
+        "Luxury Accessories",
+        "50% Off"
+    ],
+    "captions": {
+        "background": "An elegant black background that enhances the visibility of the luxury accessories displayed in the foreground.",
+        "objects": "An array of luxury accessories including high-end handbags, designer watches, chic sunglasses, and exquisite jewelry, all showcasing the finest craftsmanship."
+    },
+    "headings": {
+        "heading": [
+            "Black Friday & Cyber Monday Sale!",
+            "Luxury Accessories at 50% Off!"
+        ],
+        "sub_heading": [
+            "Shop Now and Elevate Your Style!"
+        ]
+    }
+}

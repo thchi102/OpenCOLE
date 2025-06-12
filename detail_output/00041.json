@@ -1,0 +1,36 @@
+{
+    "description": "\n\nThe image showcases a creative workspace featuring sewing tools and materials. In the center, there are colorful fabrics laid out, including blue patterns, which are ideal for making cute aprons and pillows. Surrounding the workspace are various sewing tools such as scissors, threads in multiple colors, and measuring tapes, creating a vibrant and inviting atmosphere. The backdrop includes wooden elements, like a wooden table and wooden shelves, adding a warm touch to the overall design. The layout promotes a sense of creativity and community, inviting participants to join Betty's Studio Sewing Day event.",
+    "keywords": [
+        "sewing",
+        "craft",
+        "apron making",
+        "pillow making",
+        "sewing tools",
+        "creative",
+        "workshop",
+        "fabric",
+        "blue",
+        "wood",
+        "community event",
+        "Betty's Studio",
+        "handmade",
+        "DIY",
+        "arts and crafts",
+        "seamstress",
+        "textiles",
+        "cute designs"
+    ],
+    "captions": {
+        "background": "The background features a textured wooden table that holds colorful fabrics, sewing tools, and partially completed projects.",
+        "objects": "[ 'fabric': 'Next to the sewing tools, there are rolls of fabric in various shades of blue and other colors ready for cutting and sewing.', 'sewing_tools': 'A collection of sewing tools including scissors, threads, and a measuring tape, all artistically arranged for a sewing day.' ]"
+    },
+    "headings": {
+        "heading": [
+            "Betty's Studio Sewing Day",
+            "Join Us for a Fun Crafting Experience!"
+        ],
+        "sub_heading": [
+            "Create cute aprons and pillows"
+        ]
+    }
+}

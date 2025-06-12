@@ -1,0 +1,33 @@
+{
+    "description": "\n\nThe image features a vibrant advertisement for a Spring season sale at a fashion retailer. The design prominently displays a beautiful floral pattern as the background, incorporating various blooming flowers in shades of blue and white. The flowers are arranged artistically, creating a fresh and inviting atmosphere that embodies the essence of Spring. The advertisement includes a bold and eye-catching banner that announces a '50% DISCOUNT' on select items, emphasizing the exciting offer. The call to action, 'SHOP NOW', is prominently displayed in a stylish font, encouraging potential customers to take immediate action.",
+    "keywords": [
+        "spring",
+        "sale",
+        "fashion",
+        "retailer",
+        "floral",
+        "advertisement",
+        "discount",
+        "blue",
+        "white",
+        "colorful",
+        "blooming",
+        "flowers",
+        "shopping",
+        "spring fashion",
+        "seasonal promotion"
+    ],
+    "captions": {
+        "background": "The background features a delicate floral pattern with various blue and white flowers in full bloom, creating a fresh and vibrant Spring vibe.",
+        "objects": "The main objects in the advertisement include the bold text '50% DISCOUNT' in a striking font that stands out against the floral backdrop. Below this, the call to action 'SHOP NOW' is displayed in a stylish, modern font to attract attention and motivate action."
+    },
+    "headings": {
+        "heading": [
+            "Spring Sale!",
+            "50% OFF"
+        ],
+        "sub_heading": [
+            "Shop Now!"
+        ]
+    }
+}

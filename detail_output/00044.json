@@ -1,0 +1,28 @@
+{
+    "description": "\n\nThe image features a futuristic skyline of a modern city at dusk. Tall, sleek skyscrapers are illuminated by colorful lights, creating a vibrant atmosphere. In the foreground, there is a busy street with people walking and vehicles passing by, showcasing the dynamic life of the city. The sky transitions from deep blue to purple, suggesting the end of the day and the beginning of nightlife. A prominent digital billboard in the foreground displays a bold statement about the importance of money in city life, framed by modern graphic elements that enhance its visibility.",
+    "keywords": [
+        "city",
+        "modern",
+        "skyscrapers",
+        "money",
+        "nightlife",
+        "urban",
+        "vibrant",
+        "financial",
+        "business",
+        "wealth",
+        "economy"
+    ],
+    "captions": {
+        "background": "The background features a stunning skyline of a modern city with glossy skyscrapers reflecting the twilight. The vibrant colors of the building lights mirror the bustling energy of city life.",
+        "objects": " 'billboard': 'A digital billboard displays the bold statement: \"Money Fuels the City\" in large, eye-catching typography, drawing attention amidst the cityscape.','people': 'Silhouettes of people are walking on the sidewalk, engaged in conversations or looking at their phones, emphasizing the busy lifestyle of city dwellers.' "
+    },
+    "headings": {
+        "heading": [
+            "Money Fuels the City"
+        ],
+        "sub_heading": [
+            "Recognizing the role of finance in urban living"
+        ]
+    }
+}

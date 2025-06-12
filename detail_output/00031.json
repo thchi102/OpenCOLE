@@ -1,0 +1,24 @@
+{
+    "description": "The image depicts a vibrant and eye-catching advertisement for a Black Friday and Cyber Monday sale. It features bold typography and a dynamic design that draws attention to the amazing discount being offered. The background is a mix of black and dark gray, creating a dramatic backdrop that signifies the event's urgency and excitement. Large, bright text prominently displays '30% OFF' in red, emphasizing the discount and making it a focal point of the design. Additional text urges customers to 'Shop Now!' in a playful yet commanding font, encouraging immediate action. Decorative elements, such as dynamic lines and stars in white and red, add to the festive feel of the ad while keeping the design clean and modern.",
+    "keywords": [
+        "Black Friday",
+        "Cyber Monday",
+        "sale",
+        "30% off",
+        "discount",
+        "shop now",
+        "promotion"
+    ],
+    "captions": {
+        "background": "The background color is a combination of black and dark gray to create a sense of urgency and excitement for the sale.",
+        "objects": "The main objects in the ad are the bold text displaying '30% OFF' and 'Shop Now!'. The '30% OFF' is rendered in a large, striking font colored in red, surrounded by visuals that enhance the festive and promotional nature of the ad."
+    },
+    "headings": {
+        "heading": [
+            "Black Friday & Cyber Monday Sale!"
+        ],
+        "sub_heading": [
+            "30% OFF \u2013 Shop Now!"
+        ]
+    }
+}

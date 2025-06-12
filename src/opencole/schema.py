@@ -2,7 +2,9 @@ import json
 import random
 from typing import Any, TypeVar
 
-from langchain_core.pydantic_v1 import BaseModel
+#from langchain_core.pydantic_v1 import BaseModel
+from pydantic import BaseModel
+# from layoutlib.schema import ElementSchema, mock_element, mock_element_features
 
 
 class _BaseModel(BaseModel):  # type: ignore

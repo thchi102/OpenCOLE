@@ -1,0 +1,28 @@
+{
+    "description": "\n\nThe image features a vibrant spring scene with pastel colors dominating the palette. There are models wearing stylish spring outfits, such as light dresses, floral patterns, and casual wear, showcasing the latest fashion trends for the season. The background includes blooming flowers and green grass to evoke a fresh, cheerful spring atmosphere. Text overlays prominently display the advertisement details, including 'Spring Clothing Sale' and 'Up to 30% Off!' with a call to action urging customers to 'Shop Now!'.",
+    "keywords": [
+        "spring",
+        "clothing",
+        "sale",
+        "discount",
+        "30% off",
+        "fashion",
+        "shop now",
+        "outfits",
+        "flowers",
+        "pastel colors"
+    ],
+    "captions": {
+        "background": "The background is filled with blooming flowers and lush green grass. The colors are bright and pastel, reflecting the joyful essence of spring. The scene conveys a sense of renewal and fashion forwardness.",
+        "objects": " 'models': 'There are several models styled in spring outfits, including floral dresses and casual chic attire, capturing the latest spring fashion trends.' "
+    },
+    "headings": {
+        "heading": [
+            "Spring Clothing Sale",
+            "Up to 30% Off!"
+        ],
+        "sub_heading": [
+            "Shop Now!"
+        ]
+    }
+}

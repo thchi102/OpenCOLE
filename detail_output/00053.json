@@ -1,0 +1,36 @@
+{
+    "description": "The cover image features a beautifully decorated winter scene, showcasing various winter decoration elements such as wreaths, garlands, and festive ornaments. The background includes soft falling snowflakes with a serene blue color palette to evoke a wintery atmosphere. Prominently displayed in the foreground are images of the workshop speakers: Miranda Yates, Sam Knightly, Zachary Evans, and Veronica Floyd, each engaging in their craft, surrounded by materials relevant to winter decorations.",
+    "keywords": [
+        "winter",
+        "decorations",
+        "workshop",
+        "snowflakes",
+        "festive",
+        "lectures",
+        "demonstrations",
+        "Lafayette Studio",
+        "Miranda Yates",
+        "Sam Knightly",
+        "Zachary Evans",
+        "Veronica Floyd",
+        "December 24",
+        "event",
+        "cover",
+        "Facebook"
+    ],
+    "captions": {
+        "background": "The background is a winter landscape with faint snowflakes falling, creating a calm and festive ambiance for the workshop theme.",
+        "objects": "The objects include images of the four speakers engaged in winter decoration activities, like crafting wreaths and arranging ornaments. Text overlays introduce their names and titles."
+    },
+    "headings": {
+        "heading": [
+            "Winter Decoration Workshop",
+            "Join Us for Festive Fun!"
+        ],
+        "sub_heading": [
+            "Featuring Experts:",
+            "Miranda Yates, Sam Knightly, Zachary Evans, Veronica Floyd",
+            "December 24 at Lafayette Studio"
+        ]
+    }
+}
